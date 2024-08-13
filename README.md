@@ -9,9 +9,6 @@ A Big Collection of eBooks,Courses,Manuals
 #Knowledge.Is.Free#
 ###################
 
-Download-Link
-https://c.1und1.de/@1157988897574099954/MlUIbtBRQa-NzXp3jXcEeA
-
 16-Video-Course-Collection
 #######################
 Advanced Cybersecurity and Ethical Hacking with ChatGPT
