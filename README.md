@@ -5,28 +5,28 @@ A Big Collection of eBooks,Courses,Manuals
 
 ### Included:
 
-###################
-#Knowledge.Is.Free#
-###################
+###################<br>
+#Knowledge.Is.Free#<br>
+###################<br>
 
-16-Video-Course-Collection
-#######################
-Advanced Cybersecurity and Ethical Hacking with ChatGPT
-Udemy - A.Complete.Cyber.Security.Guide.For.Beginners.2022
-Udemy - Anonym.im.Internet.-.Das.Darknet.richtig.nutzen
-Udemy - ChatGPT.Coding.Express.Fast-Track.Coding.with.ChatGPT
-Udemy - ChatGPT.Plugins.The.Complete.Guide
-Udemy - ChatGPT4.Mega.Course.Business.Work.and.Programming
-Udemy - Generative.AI.Artificial.General.Intelligence
-Udemy - Kali.Linux.2020.4.Optimization.before.Hacking
-Udemy - Master.Course.in.Cybersecurity.Archetecture.CSMA.101
-Udemy - Masters in Ethical Hacking with Android - full Course
-Udemy - Prompt.Engineering.with.ChatGPT.Zero.to.Hero
-Udemy - Scrapy.Python.Web.Scraping.and.Crawling.for.Beginners
-Udemy - The.Complete.Ethical.Hacking.Course.2024-Zero.to.Hero
-Udemy - The.Linux.Command.Line.Bootcamp.Beginner.To.Power.User
-Udemy - The.Secrets.of.Nmap.using.and.Hacking
-Udemy - Website.Hacking.Penetration.Testing.And.Bug.Bounty.Hunting
+16-Video-Course-Collection<br>
+#######################<br>
+Advanced Cybersecurity and Ethical Hacking with ChatGPT<br>
+Udemy - A.Complete.Cyber.Security.Guide.For.Beginners.2022<br>
+Udemy - Anonym.im.Internet.-.Das.Darknet.richtig.nutzen<br>
+Udemy - ChatGPT.Coding.Express.Fast-Track.Coding.with.ChatGPT<br>
+Udemy - ChatGPT.Plugins.The.Complete.Guide<br>
+Udemy - ChatGPT4.Mega.Course.Business.Work.and.Programming<br>
+Udemy - Generative.AI.Artificial.General.Intelligence<br>
+Udemy - Kali.Linux.2020.4.Optimization.before.Hacking<br>
+Udemy - Master.Course.in.Cybersecurity.Archetecture.CSMA.101<br>
+Udemy - Masters in Ethical Hacking with Android - full Course<br>
+Udemy - Prompt.Engineering.with.ChatGPT.Zero.to.Hero<br>
+Udemy - Scrapy.Python.Web.Scraping.and.Crawling.for.Beginners<br>
+Udemy - The.Complete.Ethical.Hacking.Course.2024-Zero.to.Hero<br>
+Udemy - The.Linux.Command.Line.Bootcamp.Beginner.To.Power.User<br>
+Udemy - The.Secrets.of.Nmap.using.and.Hacking<br>
+Udemy - Website.Hacking.Penetration.Testing.And.Bug.Bounty.Hunting<br>
 
 916-eBooks-Collection
 ########################
